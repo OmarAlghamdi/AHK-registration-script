@@ -3,7 +3,7 @@ an AutoHotKey script to auto fill the registration form
 
 ### Why should you use AHK?
 AHK is free, open source and has large community all over the world. You should not use a crappy app or extension while there is a legitment solution. by using a crappy extension or app you are risking your security and privacy. 
-AHK is light and you can use it to do amazing stuff.
+AHK is lightweight and you can use it to do amazing stuff also.
 
 ### Convenced? here is a quick exlenation to the example script.
 * Anything after a simicolon is a comment
