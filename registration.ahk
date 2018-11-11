@@ -1,8 +1,8 @@
-^1::
-SetKeyDelay -1
+^1::  ; the script is triggered by Ctrl + 1. you can use anything instead
+SetKeyDelay -1  ; tells AHK to type without any delay
 ; SWE 316-01
-Send {Text} 21357
-Send {Tab}
+Send {Text} 21357 ; types the first CRN in the first box
+Send {Tab}  ; presses Tab to move to the next box
 ; ICS 254-03
 Send {Text} 23360
 Send {Tab}
@@ -17,5 +17,5 @@ Send {Text} 22801
 Send {Tab}
 ; SWE 387-01
 Send {Text} 20803
-Send {Enter}
-return
+Send {Enter}  ; presses Enter to submit the form
+return  ; ends the script
