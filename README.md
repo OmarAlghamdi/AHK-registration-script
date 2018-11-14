@@ -1,3 +1,5 @@
+#:red_circle:Important:red_circle: make sure there is no white spaces after '}' in the lines containing your CRNs:red_circle:
+
 # AHK-registrration-script-
 an AutoHotKey script to auto fill the registration form 
 
